@@ -1,0 +1,16 @@
+*
+# Ignore Everything Except Stuff Below
+
+# ~/ Directory Files
+!.gitignore
+!.zshrc
+
+# Config Files
+!.config/eww/**
+!.config/hypr/**
+!.config/kitty/**
+!.config/nano/**
+
+# My Stuff
+!.config/benji/**
+!.config/colors/**
