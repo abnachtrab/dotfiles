@@ -1,0 +1,14 @@
+include $HOME/.config/colors/compiled/kitty.theme
+
+# font_family      JetBrainsMono Nerd Font Mono
+# bold_font        JetBrainsMono Nerd Font Mono Extra Bold
+# italic_font      JetBrainsMono Nerd Font Mono Italic
+# bold_italic_font JetBrainsMono Nerd Font Extra Bold Italic
+
+font_size 16.0
+
+background_opacity 0.75
+background_blur 64
+
+selection_foreground none
+selection_background none

@@ -6,13 +6,14 @@
 !.zshrc
 
 # Config Files
-!.config
-.config/*
-.config/kitty
-!.config/kitty/kitty.conf
-.config/nano
-!.config/nano/nanorc
+!.config/
+!.config/kitty/
+!.config/kitty/*
+!.config/nano/
+!.config/nano/*
 
 # My Stuff
-!.config/benji
-!.config/colors
+!.config/benji/
+!.config/benji/*
+!.config/colors/
+!.config/colors/*

@@ -1,0 +1,22 @@
+cursor #bfbfbf
+cursor_text_color #404040
+url_color  #a0c4ff
+foreground #bfbfbf
+background #000000
+
+color0  #000000
+color8  #404040
+color1  #bf8282
+color9  #ffadad
+color2  #97bf8f
+color10 #caffbf
+color3  #bdbf88
+color11 #fdffb6
+color4  #7893bf
+color12 #a0c4ff
+color5  #bf94bf
+color13 #ffc6ff
+color6  #74b8bf
+color14 #9bf6ff
+color7  #bfbfbf
+color15 #ffffff

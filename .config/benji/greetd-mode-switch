@@ -1,0 +1,10 @@
+#!/bin/sh
+
+MODE_FILE="/etc/greetd/hypr_mode"
+MODE=$(cat "$MODE_FILE" 2>/dev/null)
+
+if [ "$MODE" = "gpu" ]; then
+    CMD="uwsm start HyprlandGPU"
+else
+    CMD="uwsm start Hyprland"
+fi
