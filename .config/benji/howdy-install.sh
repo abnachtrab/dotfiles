@@ -8,9 +8,6 @@ else
     echo "Howdy already installed, skipping download."
 fi
 
-echo "Copying hyprlock pam file..."
-sudo cp ../install-files/hyprlock.pam /etc/pam.d/hyprlock
-
 echo "Available video devices:"
 if ! ls /dev/video* 2>/dev/null; then
     echo "No video devices found...?"
